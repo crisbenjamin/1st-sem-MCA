@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<xs:element name="Reads">
+<xs:complexType>
+<xs:sequence>
+<xs:element name="Reviews" maxOccurs="unbounded">
+<xs:complexType>
+<xs:sequence>
+<xs:element name ="title" type="xs:string"/>
+<xs:element name ="author" type="xs:string"/>
+<xs:element name ="reviewer" type="xs:string"/>
+<xs:element name ="rating" type="xs:float"/>
+<xs:element name="review" type="criteria"/>
+</xs:sequence>
+</xs:complexType>
+</xs:element>
+</xs:sequence>
+</xs:complexType>
+</xs:element>
+<xs:simpleType name="criteria">
+<xs:restriction base="xs:string">
+<xs:minLength value="5"></xs:minLength>
+<xs:maxLength value="500"></xs:maxLength>
+</xs:restriction>
+</xs:simpleType> 
+</xs:schema>
+
+

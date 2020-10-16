@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="reviews.xsl"?>
+<Reads xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="reviews.xsd">
+  <Reviews>
+    <title>Mad at the World</title>
+    <author>William Souder</author>
+    <reviewer>Jane Doe</reviewer>
+    <rating>4.2</rating>
+    <review>John Steinbeck just might be the novelist for our time. In his sprawling epic The Grapes of Wrath, he captured Americans’ peculiar yearning for a life not their own, the promise of wealth beyond the veil of desolation and the wretched impossibility of such a promise.</review>
+  </Reviews>
+  <Reviews>
+    <title>A Time for Mercy</title>
+    <author>John Grisham</author>
+    <reviewer>John Doe</reviewer>
+    <rating>4</rating>
+    <review>With nationwide calls for police reform and defunding, literary giant John Grisham’s novel A Time for Mercy is undoubtedly timely, as it explores the ways that violence committed by or against law enforcement officials can complicate the pursuit of justice.</review>
+  </Reviews>
+  <Reviews>
+    <title>Black Sun</title>
+    <author>Rebecca Roanhorse</author>
+    <reviewer>Bob Smith</reviewer>
+    <rating>3.9</rating>
+    <review>Readers will be riveted by powerful world building and deep characterization for the entirety of Rebecca Roanhorse’s Black Sun</review>
+  </Reviews>
+</Reads>
