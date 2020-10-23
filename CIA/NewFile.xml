@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="NewStylesheet.xsl"?>
+<tns:Company xmlns:tns="http://www.example.org/NewXMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.example.org/NewXMLSchema NewXMLSchema.xsd">
+  <tns:Employee Emp-id="idvalue0">
+    <tns:Emp-name>John Doe</tns:Emp-name>
+    <tns:Emp-age>30</tns:Emp-age>
+    <tns:Emp-salary>50000</tns:Emp-salary>
+    <tns:Emp-emailid>john@gmail.com</tns:Emp-emailid>
+    <tns:Emp-phonenum>1234567890</tns:Emp-phonenum>
+    <tns:Emp-designation>Junior Analyst</tns:Emp-designation>
+  </tns:Employee>
+  <tns:Employee Emp-id="idvalue1">
+    <tns:Emp-name>Bob Smith</tns:Emp-name>
+    <tns:Emp-age>35</tns:Emp-age>
+    <tns:Emp-salary>65000</tns:Emp-salary>
+    <tns:Emp-emailid>bob@gmail.com</tns:Emp-emailid>
+    <tns:Emp-phonenum>1946073290</tns:Emp-phonenum>
+    <tns:Emp-designation>Senior Analyst</tns:Emp-designation>
+  </tns:Employee>
+  <tns:Employee Emp-id="idvalue2">
+    <tns:Emp-name>Jane Doe</tns:Emp-name>
+    <tns:Emp-age>39</tns:Emp-age>
+    <tns:Emp-salary>80000</tns:Emp-salary>
+    <tns:Emp-emailid>jane@gmail.com</tns:Emp-emailid>
+    <tns:Emp-phonenum>2384973290</tns:Emp-phonenum>
+    <tns:Emp-designation>Manager</tns:Emp-designation>
+  </tns:Employee>
+</tns:Company>
