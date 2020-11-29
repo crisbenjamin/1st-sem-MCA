@@ -5,7 +5,8 @@
       "title": "hello"
     }
   ],
-  "profile": {
-    "name": "typicode"
+  "login": {
+    "username": "crisben",
+    "password": "password"
   }
 }
