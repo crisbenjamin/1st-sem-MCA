@@ -1,12 +1,10 @@
-{
-  "data": [
-    {
-      "username": "cris",
-      "password": "password"
-    },
-    {
-      "username": "benjamin",
-      "password": "password"
-    }
-  ]
-}
+[
+  {
+    "username": "cris",
+    "password": "password"
+  },
+  {
+    "username": "benjamin",
+    "password": "password"
+  }
+]
